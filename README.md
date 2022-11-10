@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowbudgetchaplin" alt="lowbudgetchaplin" /></a> </p>
 
-- 🌱 I’m currently learning **Java/Python/SQL**
+- 🌱 I’m currently learning **Python/SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LowBudgetChaplin?tab=repositories](https://github.com/LowBudgetChaplin?tab=repositories)
 
-- 💬 Ask me about **Java/Python**
+- 💬 Ask me about **C++/Python**
 
 - 📫 How to reach me **serbancorodescu14@gmail.com**
 
