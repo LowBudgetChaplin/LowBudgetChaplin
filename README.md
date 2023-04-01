@@ -1,6 +1,6 @@
 ![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)
 <h1 align="center">Hi 👋, I'm Serban Corodescu</h1>
-<h3 align="center">Student - C.S.I.E.</h3
+<h3 align="center">Student - C.S.I.E.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowbudgetchaplin&label=Profile%20views&color=0e75b6&style=flat" alt="lowbudgetchaplin" /> </p>
 
