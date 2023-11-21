@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LowBudgetChaplin?tab=repositories](https://github.com/LowBudgetChaplin?tab=repositories)
 
-- 💬 Ask me about **Javascript/Python**
+- 💬 Ask me about **Javascript/Java**
 
 - 📫 How to reach me **serbancorodescu14@gmail.com**
 
