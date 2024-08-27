@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowbudgetchaplin&label=Profile%20views&color=0e75b6&style=flat" alt="lowbudgetchaplin" /> </p>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowbudgetchaplin" alt="lowbudgetchaplin" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowbudgetchaplin" alt="lowbudgetchaplin" /></a> </p> -->
 
-- 🌱 I’m currently learning **React/NextJS**
+- 🌱 I’m currently learning **.NET/React/GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LowBudgetChaplin?tab=repositories](https://github.com/LowBudgetChaplin?tab=repositories)
 
