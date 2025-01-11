@@ -6,11 +6,11 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowbudgetchaplin" alt="lowbudgetchaplin" /></a> </p> -->
 
-- 🌱 I’m currently learning **.NET Core/GraphQL**
+- 🌱 I’m currently learning **.NET Core / Kotlin for Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LowBudgetChaplin?tab=repositories](https://github.com/LowBudgetChaplin?tab=repositories)
 
-<!-- - 💬 Ask me about **Java/React** -->
+- 💬 Ask me about **Java/Android**
 
 - 📫 How to reach me **serbancorodescu14@gmail.com**
 
